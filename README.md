@@ -1,3 +1,3 @@
 # New Project 
 
-This project was created in local repository..
+This project was created in local repository.
